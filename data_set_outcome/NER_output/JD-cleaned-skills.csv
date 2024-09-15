@@ -1,0 +1,235 @@
+Degrees,Designation,Skills,Years_of_Experience,Path
+"Bachelor's degree in Human Resources
+Master's degree in Business Administration",Human Resources Manager,"1. Active listening
+2. Negotiation
+3. Presentation
+4. Interpersonal relationship building
+5. Recruitment management
+6. Performance appraisal management
+7. Pay plan management
+8. Benefits program management
+9. Training needs assessment
+10. Training program implementation and monitoring",8+ years,HR Job Description_1_Human Resources Manager.docx
+"Bachelor's degree in Finance
+Bachelor's degree in Economics",Corporate Finance Analyst,"1. Spreadsheets
+2. Databases
+3. MS Office
+4. Financial software applications
+5. Statistical analysis
+6. Statistical packages
+7. Presentation software
+8. Reporting software
+9. Data analysis
+10. Financial forecasting
+11. Database management
+12. Computer software update and maintenance",5 to 7 years of experience,Finance Job Description_3_Corporate Finance Analyst.docx
+"Bachelor's degree in Finance
+Bachelor's degree in Accounting
+Bachelor's degree in Economics
+Master's degree in Finance
+Master's degree in Accounting",Finance Manager,"1. Proficiency in finance software
+2. Leadership capabilities
+3. Interpersonal skills
+4. Communication skills
+5. Presentation skills
+6. Financial analysis
+7. Forecasting
+8. Financial reporting
+9. Financial interpretation
+10. Strategic planning
+11. Risk management
+12. Compliance with financial laws and regulations
+13. Accounting principles
+14. Financial statistics
+15. Business operations knowledge",10 years,Finance Job Description_2_Finance Manager.docx
+"Bachelor's degree in Computer Science
+Bachelor's degree in Engineering
+Master's degree in Computer Science
+Master's degree in Engineering",Android Developer,"1. Android SDK
+2. Android Studio
+3. Kotlin
+4. Java
+5. REST
+6. JSON
+7. Third-party libraries
+8. APIs
+9. Material Design
+10. Offline storage
+11. Threading
+12. Performance tuning
+13. Cloud message APIs
+14. Push notifications
+15. Continuous integration
+16. Continuous deployment
+17. Git
+18. JIRA
+19. Flutter",10 - 12 years of experience,IT Job Description_5_Android Developer.docx
+"Bachelor's degree in Human Resources Management
+Bachelor's degree in IT",Technical Recruiter,"1. Interview formats (phone, Skype, structured)
+2. Boolean search
+3. Social media recruiting
+4. Applicant Tracking Systems
+5. Resume databases
+6. Written communication
+7. Verbal communication",5 to 7 years,HR Job Description_3_Technical Recruiter.docx
+"Bachelor's degree in Computer Science
+Bachelor's degree in Statistics
+Bachelor's degree in Informatics
+Bachelor's degree in Information Systems
+Master's degree in Computer Science
+Master's degree in Statistics
+Master's degree in Informatics
+Master's degree in Information Systems
+PhD in Computer Science
+PhD in Statistics
+PhD in Informatics
+PhD in Information Systems",Data Scientist,"1. R programming
+2. Python programming
+3. SQL programming
+4. Statistical programming
+5. Data manipulation
+6. Data analysis
+7. Clustering
+8. Decision tree learning
+9. Artificial neural networks
+10. Deep learning
+11. PyTorch
+12. TensorFlow
+13. Computer vision
+14. Object detection
+15. Image classification
+16. SQL
+17. Data mining
+18. Predictive modeling
+19. Machine learning
+20. Data modeling
+21. Algorithm creation
+22. Simulation creation
+23. Data integrity tracking
+24. Performance monitoring",10+ years of experience,IT Job Description_3_Data Scientist.docx
+"Bachelor's degree in Computer Science
+Master's degree in Computer Science
+Bachelor's degree in Artificial Intelligence
+Master's degree in Artificial Intelligence
+Bachelor's degree in Linguistics
+Master's degree in Linguistics",NLP/LLMs Developer,"1. Python programming
+2. NLP libraries (NLTK, spaCy, transformers)
+3. Machine learning
+4. Deep learning
+5. Model development
+6. Model optimization
+7. Data collection
+8. Data preprocessing
+9. Data structuring
+10. Data enrichment
+11. Debugging code
+12. Troubleshooting
+13. Model fine-tuning
+14. Model implementation
+15. Large Language Models (LLMs) development and deployment
+16. Model training
+17. Model architecture design
+18. Training strategies
+19. Analytical thinking
+20. Problem-solving skills",8 years,IT Job Description_4_NLP_LLMs.docx
+Bachelor's degree in Human Resources Management,Talent Acquisition Specialist,"1. Database management
+2. Social media usage
+3. Video interviewing
+4. Phone interviewing
+5. Reference checking
+6. Decision-making
+7. Communication
+8. Interpersonal skills
+9. Job analysis
+10. Job description writing
+11. Job specification development
+12. Resume screening
+13. Interviewing
+14. Candidate assessment
+15. Onboarding
+16. HR database management
+17. Applicant Tracking Systems (ATS) usage
+18. Candidate Management Systems (CMS) usage",5 to 10 years of experience,HR Job Description_2_Talent Acquisition Specialist.docx
+"Bachelor's degree in Finance
+Bachelor's degree in Economics",Financial Analyst,"1. Excel formulas and functions
+2. Financial statement analysis
+3. Data gathering
+4. Data analysis
+5. Comparative analysis
+6. Financial modeling
+7. Budgeting
+8. Forecasting
+9. Financial reporting
+10. Written communication
+11. Verbal communication",3 - 5 years,Finance Job Description_1_Financial Analyst.docx
+"Bachelor's degree in Computer Science
+Master's degree in Computer Science
+Bachelor's degree in Engineering
+Master's degree in Engineering",Web Developer,"1. HTML
+2. CSS
+3. JavaScript
+4. PHP
+5. ASP.NET
+6. Node.js
+7. React
+8. Angular
+9. Vue.js
+10. SQL
+11. NoSQL database technologies
+12. Git
+13. Continuous integration/continuous deployment (CI/CD) practices
+14. Object-Oriented Programming (OOP)
+15. Responsive design techniques
+16. RESTful services
+17. GraphQL services
+18. API design and development
+19. Relational database systems
+20. Version control tools",5 to 7 years of experience,IT Job Description_6_Web Developer.docx
+"Bachelor's degree in Information Technology
+Bachelor's degree in Computer Science
+Bachelor's degree in related field",Systems Administrator,"1. Database management
+2. Network configurations (LAN, WAN)
+3. Patch management
+4. System security measures
+5. Data backup
+6. Data recovery strategies
+7. Operating systems (Windows, macOS, Linux)
+8. Cloud-based platforms (AWS, Azure)
+9. Troubleshooting
+10. Problem-solving
+11. Communication skills
+12. Technical documentation and guides creation
+13. User account management
+14. Workstation setup
+15. Network security
+16. Connectivity management
+17. System monitoring
+18. Performance metrics analysis",7+ years,IT Job Description_1_Systems Administrator.docx
+"Bachelor's degree in Computer Science
+Master's degree in Computer Science
+Bachelor's degree in Engineering
+Master's degree in Engineering",Software Developer,"1..NET programming languages
+2. C#
+3. Java
+4. JavaScript
+5. AngularJS
+6. Git
+7. SQL Server
+8. ASP.NET framework
+9. Model-View-Controller (MVC) design/architectural patterns
+10. RESTful APIs
+11. Docker
+12. Kubernetes
+13. Jenkins
+14. GitLab CI/CD
+15. Azure DevOps
+16. Azure
+17. AWS
+18. Google Cloud Platform
+19. Containerization technologies
+20. Microservices architecture
+21. Version control
+22. Build
+23. Deployment
+24. Operations
+25. C# (again, as it is a key language for the job)",8 years,IT Job Description_2_software_dev.docx
